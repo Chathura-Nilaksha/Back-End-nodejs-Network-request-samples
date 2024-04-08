@@ -1,0 +1,11 @@
+
+
+const allCourses = {
+    courseNo1 : "Certificate level-Database Management-English Medium",
+    courseNo2 : "Diploma level-Database Management-English Medium",
+    courseNo3 : "Advance Diploma level-Database Management-English Medium",
+    courseNo4 : "Certificate level-Software Development-English Medium",
+    courseNo5 : "Degree level-Software Development-English Medium",
+};
+
+exports.a = allCourses;
